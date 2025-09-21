@@ -1,6 +1,5 @@
 # 💫 About Me:
-Técnico Profesional en Procesos de Programación de Software, con conocimientos en desarrollo web (HTML, CSS, JavaScript, React, Next.js, Angular, SQL y MongoDB), diseño UX/UI básico (Figma, Adobe XD) y fundamentos en Python, Flutter e Inteligencia Artificial. Con competencias en soporte técnico e infraestructura TI), incluyendo manejo de sistemas operativos (Windows, Linux), línea de comandos, instalación de software, soporte Help Desk, administración básica de redes (TCP/IP, OSI) y documentación técnica. Aprendizaje autónomo, enfoque práctico, habilidades de comunicación, uso de herramientas como Git, GitHub, Excel intermedio y Word avanzado, aplicación de soluciones tecnológicas adaptadas a contextos reales
-
+Professional Technician in Software Programming Processes, with knowledge of web development (HTML, CSS, JavaScript, React, Next.js, Angular, SQL, and MongoDB), basic UX/UI design (Figma, Adobe XD), and fundamentals of Python, Flutter, and Artificial Intelligence. Skilled in technical support and IT infrastructure, including operating systems (Windows, Linux), command line, software installation, Help Desk support, basic network administration (TCP/IP, OSI), and technical documentation. Self-learner, practical approach, communication skills, use of tools such as Git, GitHub, intermediate Excel, and advanced Word, application of technological solutions adapted to real contexts.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-garzonbu) 
